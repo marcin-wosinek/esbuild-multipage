@@ -4,7 +4,8 @@
   "description": "Example repo for an article about multipage with esbuild",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "esbuild src/a.js src/b.js --bundle --outdir=dist --splitting --format=esm"
   },
   "repository": {
     "type": "git",
