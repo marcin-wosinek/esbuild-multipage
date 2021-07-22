@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/marcin-wosinek/esbuild-multipage/issues"
   },
-  "homepage": "https://github.com/marcin-wosinek/esbuild-multipage#readme"
+  "homepage": "https://github.com/marcin-wosinek/esbuild-multipage#readme",
+  "dependencies": {
+    "esbuild": "^0.12.15",
+    "jquery": "^3.6.0"
+  }
 }
