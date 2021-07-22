@@ -1,0 +1,20 @@
+{
+  "name": "esbuild-multipage",
+  "version": "1.0.0",
+  "description": "Example repo for an article about multipage with esbuild",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcin-wosinek/esbuild-multipage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcin-wosinek/esbuild-multipage/issues"
+  },
+  "homepage": "https://github.com/marcin-wosinek/esbuild-multipage#readme"
+}
